@@ -56,5 +56,19 @@ Service man is a 2nd grade employee in a maintenance department under the admin 
 - Admin can do all the functions done in a maintenance department. The admin has the specialized datacenter with an graphical interface to see the work done, complaint received and work in processing. They can add the service man to the maintenance department to have any rights to access the app given to a service man. 
 - Admin dashboard consist of all the tracking facilities like how many complaints have raised, how many are in processing and how many of them are resolved are represented using the pie chart and using the visual dashboard in multiplatform. Then the admin can also have an add user portal who can access the maintenance application of service man. 
 
+# APPLICATION SCREENSHOTS
+## ANDROID
+![ANDROID1](https://user-images.githubusercontent.com/37392779/119343283-dabe3b00-bcb3-11eb-8aef-ac76d0d50b13.jpg)
+
+![ANDROID MENU](https://user-images.githubusercontent.com/37392779/119343351-f295bf00-bcb3-11eb-9c95-b129fd49ead2.jpg)
+
+![ANDROID LOGIN](https://user-images.githubusercontent.com/37392779/119343330-ea3d8400-bcb3-11eb-9bfc-d15f881a1836.jpg)
+
+## WEB
+
+![KK](https://user-images.githubusercontent.com/37392779/119343506-2b359880-bcb4-11eb-8932-bb2dfac63ffe.png)
+
+
+![WEB](https://user-images.githubusercontent.com/37392779/119343403-04776200-bcb4-11eb-80d3-458417042533.png)
 
 
